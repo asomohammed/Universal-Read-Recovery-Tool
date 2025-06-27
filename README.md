@@ -1,7 +1,4 @@
-# Universal Read Recovery Tool
-
-```markdown
-# Universal Read Recovery Tool 🧬
+# Universal Read Recovery 🧬
 
 A powerful Python tool for recovering misassigned reads from Illumina sequencing demultiplexing, specifically designed to rescue reads that were incorrectly placed in the "Unassigned" or "Undetermined" files due to sequencing errors in barcode sequences.
 
