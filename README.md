@@ -180,3 +180,17 @@ Universal Read Recovery Tool
 ---
 
 **⭐ If this tool helped rescue your data, please star the repository!**
+
+
+## Authors
+
+**Aso Omer Mohammed**  
+3DBM, Neurosurgery, University Hospital Freiburg  
+GitHub: [@asomohammed](https://github.com/asomohammed)  
+Email: aso.mohammed@uniklinik-freiburg.de
+
+**Dr. Ing. Kevin Joseph**  
+Neurosurgery, University Hospital Freiburg  
+GitHub: [@kevinj24fr](https://github.com/kevinj24fr)  
+Email: kevin.joseph@uniklinik-freiburg.de
+
