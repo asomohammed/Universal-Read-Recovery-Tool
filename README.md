@@ -158,7 +158,7 @@ If you use this tool in your research, please cite:
 
 ```
 Universal Read Recovery Tool
-(https://github.com/asomohammed/Universal-Read-Recovery-Tool
+(https://github.com/asomohammed/Universal-Read-Recovery-Tool)
 
 ```
 
