@@ -232,13 +232,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
        --threads 4
    ```
 
-## 📮 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/Universal-Read-Recovery-Tool/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/Universal-Read-Recovery-Tool/discussions)
-- **Email**: support@example.com
-- **Documentation**: [ReadTheDocs](https://universal-read-recovery.readthedocs.io/)
-
 ---
 
 Made with ❤️ for the scientific community
