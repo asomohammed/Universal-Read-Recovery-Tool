@@ -15,13 +15,6 @@
 - **Quality-Aware Processing**: Considers quality scores in recovery decisions
 - **Comprehensive Reporting**: Detailed HTML and CSV reports with visualizations
 
-### New in v2.0
-
-- **Parallel Processing**: Multi-threaded read processing
-- **Memory Management**: Efficient streaming of large files
-- **Interactive Reports**: Dynamic HTML reports with charts
-- **Extended Platform Support**: Compatible with more sequencing platforms
-- **Quality Score Integration**: Uses quality scores for better accuracy
 
 ## 📋 Requirements
 
