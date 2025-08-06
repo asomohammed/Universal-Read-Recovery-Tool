@@ -9,6 +9,7 @@ from pathlib import Path
 import shutil
 from datetime import datetime
 
+
 def hamming_distance(s1, s2):
     """Calculate Hamming distance between two strings of equal length"""
     if len(s1) != len(s2):
