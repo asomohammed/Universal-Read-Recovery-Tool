@@ -15,13 +15,6 @@
 - **Quality-Aware Processing**: Considers quality scores in recovery decisions
 - **Comprehensive Reporting**: Detailed HTML and CSV reports with visualizations
 
-### New in v2.0
-
-- **Parallel Processing**: Multi-threaded read processing
-- **Memory Management**: Efficient streaming of large files
-- **Interactive Reports**: Dynamic HTML reports with charts
-- **Extended Platform Support**: Compatible with more sequencing platforms
-- **Quality Score Integration**: Uses quality scores for better accuracy
 
 ## 📋 Requirements
 
@@ -189,9 +182,6 @@ make html
 | 10M reads    | 15 min          | 2 GB         | 12-18%        |
 | 100M reads   | 2 hours         | 8 GB         | 10-15%        |
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ### Development Setup
 
@@ -232,31 +222,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
        --threads 4
    ```
 
-## 📮 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/Universal-Read-Recovery-Tool/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/Universal-Read-Recovery-Tool/discussions)
-- **Email**: support@example.com
-- **Documentation**: [ReadTheDocs](https://universal-read-recovery.readthedocs.io/)
-
----
-
-Made with ❤️ for the scientific community
-
-```
-
-This v2.0 README includes:
-1. Clear version highlighting and new features
-2. Improved installation options including Docker
-3. Advanced configuration options
-4. Detailed performance metrics
-5. Better project structure documentation
-6. More comprehensive troubleshooting
-7. Modern development setup instructions
-8. Quality score integration details
-9. Performance tuning guidelines
-10. Updated citation information
-11. Extended platform support details
-12. Clear contact and support information
-
-```
